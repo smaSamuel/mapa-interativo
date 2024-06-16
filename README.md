@@ -4,10 +4,10 @@ Todos esses dados são salvos em um arquivos JSON
 
 # Linguagens utilizadas =>
 PY
-HTML
-CSS
+| HTML
+| CSS
 
 # Bibliotecas utilizadas =>
 flask => para gerar um servidor local e salvar arquivos de imagens 
-json => salvar modificações feitas no mapa 
-leaflet => criar o mapa 
+| json => salvar modificações feitas no mapa 
+| leaflet => criar o mapa 
